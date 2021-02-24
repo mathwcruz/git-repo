@@ -6,7 +6,7 @@
 
 ## **<h2 align="center">Aplicação Front end 📟 👨‍💻</h2>**
 
-## <p><h2 align="center">Aplicação que lista repositórios dos usuários do GitHub, sendo possível favoritá-los</p>
+## <p><h2 align="center">Aplicação que lista repositórios dos usuários do GitHub, utilizando a sua [API](https://docs.github.com/en/rest/reference/repos) sendo possível favoritá-los</p>
 
 # **Web Layout** 💻
 
