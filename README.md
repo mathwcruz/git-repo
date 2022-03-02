@@ -4,9 +4,9 @@
 
 <br>
 
-## **<h2 align="center">Aplicação Front end 📟 👨‍💻</h2>**
+## **<h2 align="center">Front end application 📟 👨‍💻</h2>**
 
-## <p><h2 align="center">Aplicação que lista repositórios dos usuários do GitHub, utilizando a sua [API](https://docs.github.com/en/rest/reference/repos) sendo possível favoritá-los</p>
+## <p><h2 align="center">Application that lists GitHub users repositories, using the [GitHub API](https://docs.github.com/en/rest/reference/repos) being possible to favorite them</p>
 
 # **Web Layout** 💻
 
@@ -35,11 +35,9 @@
 <br>
 
 ## 💻 Aplicação na Web:
-## **<h3 align="left">[Confira](https://git-repomathwcruz.netlify.app/)</h3>**
+## **<h3 align="left">[Web application](https://git-repomathwcruz.netlify.app/)</h3>**
 
 
-## **<p align="center">Iniciando a caminhada para poder participar da maratona nesse mundo da programação 🏃‍</p>**
+## **<p align="center">Starting the walk to be able to participate in the marathon in this programming world 🏃‍</p>**
 
-### <p> <h2 align="center"> Mais uma aplicação realizada por Matheus da Cruz 👨‍💻 </h2> </p>
-
-
+### <p> <h2 align="center">Another application made by Matheus da Cruz 👨‍💻 </h2> </p>
