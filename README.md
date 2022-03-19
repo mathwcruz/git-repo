@@ -24,6 +24,11 @@
 
 <br>
 
+## :star: Features
+- [x] Listing a Github user's public repositories
+- [x] Favorite a repository
+
+
 ## 🚀 Tecnologias utilizadas:
 
 <p align="center">
