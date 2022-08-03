@@ -9,13 +9,13 @@
 # **Web Layout** 💻
 
 <p align="center">
-  <img src="./.github/demonstration-web.gif" width="1400px"/>
+  <img src="./.github/demonstration-web.gif" width="100%"/>
 </p>
 
 # **Tablet Layout** 💻
 
 <p align="center">
-  <img src="./.github/demonstration-mobile.gif" width="600px"/>
+  <img src="./.github/demonstration-mobile.gif" width="50%"/>
 </p>
 
 ## :star: Features
